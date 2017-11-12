@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 adsca
 aaaaa
 sss
+=======
+adsca
+>>>>>>> parent of 139ade7... aaa
