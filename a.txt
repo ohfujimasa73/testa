@@ -3,9 +3,4 @@ fdsjs
 ojoijjvbcvbfsfsadfzz
 asdas
 eeeeeeeeeeeeee
-<<<<<<< HEAD
 wwwwwwwwwwwwwwzzz
-=======
-wwwwwwwwwwwwww
-wwwwww
->>>>>>> parent of cfbe572... test
