@@ -1,0 +1,7 @@
+[OK] https://(USER)@bitbucket.org/(USER)/(PROJECT).git
+[NG] ssh://git@bitbucket.org/(USER)/(PROJECT).git
+[NG] git@bitbucket.org:(USER)/(PROJECT).git
+※ (USER) はユーザーID、 (PROJECT) はリポジトリIDに読み替えて下さい。
+※GitHubの場合、 https://(USER)@github.com/(USER)/(PROJECT).git で通ります。
+
+上記３種類の形式が全て利用できていたのですが、 https のみに統一したということなんでしょうか。 最近、SourceTree をバージョン 2.1.10.0 に更新したので、その影響が強そうです。
